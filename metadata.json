@@ -1,0 +1,5 @@
+{
+  "name": "Bose Beamline Scatter Analysis",
+  "description": "A scientific analysis tool for proton beam scattering. Measures beam width (sigma) from radiochromic film scans, calculates scattering angles, and compares experimental results against the Highland formula.",
+  "requestFramePermissions": []
+}
